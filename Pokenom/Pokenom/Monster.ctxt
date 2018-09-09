@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Monster
+comment0.text=\r\n\ The\ Monster\ superclass\ that\ extends\ character.\ All\ monsters\ extend\ \ this\r\n\ superclass,\ and\ have\ the\ parameters\ and\ methods\ required\ of\ monsters.\ \r\n\r\n\ \ @author\ \ Keontrye\ Hsieh,\ Vikram\ Miryala,\ Richard\ Ma\r\n\ \ @version\ May\ 29,\ 2017\r\n\ \ @author\ \ Period\:\ 3\r\n\ \ @author\ \ Assignment\:\ Pokenom\r\n\r\n\ \ @author\ \ Sources\:\ N/A\r\n
+comment1.params=
+comment1.target=Monster()
+comment1.text=\r\n\ Default\ Constructor\ of\ Monster.\ Creates\ a\ monster\ at\ the\ default\ \r\n\ position\r\n
+comment2.params=
+comment2.target=greenfoot.GreenfootImage\ getBigPicture()
+comment2.text=\r\n\ Method\ that\ returns\ the\ picture\ used\ for\ the\ monster\ in\ the\ \r\n\ battle\ screen.\r\n\ @return\ GreenFootImage\ that\ is\ the\ picture\ for\ the\ battle.\r\n
+comment3.params=
+comment3.target=int\ getHp()
+comment3.text=\r\n\ Method\ that\ returns\ the\ Health\ of\ the\ monster\r\n\ @return\ Integer\ value\ of\ the\ health\r\n
+comment4.params=dmg
+comment4.target=void\ looseHp(int)
+comment4.text=\r\n\ Method\ that\ takes\ in\ the\ amount\ of\ damage\ done,\ and\ subtracts\ the\r\n\ damage\ from\ the\ health.\ \r\n
+comment5.params=
+comment5.target=int\ getAttack()
+comment5.text=\r\n\ Method\ that\ returns\ the\ attack\ value\ of\ a\ the\ monster.\r\n\ @return\ Integer\ value\ of\ the\ attack.\r\n
+comment6.params=
+comment6.target=int\ getXp()
+comment6.text=\r\n\ Method\ that\ returns\ the\ experience\ value\ of\ the\ monster.\r\n\ @return\ Integer\ value\ of\ the\ experience\ \r\n
+numComments=7

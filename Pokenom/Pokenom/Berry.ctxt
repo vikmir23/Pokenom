@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Berry
+comment0.text=\r\n\ \ The\ berry\ superclass.\ All\ berries\ extend\ this.\r\n\ \ In\ this\ class,\ there\ are\ methods\ that\ are\ all\ shared\ within\r\n\ \ the\ berries.\ \r\n\r\n\ \ @author\ \ Keontrye\ Hsieh,\ Vikram\ Miryala,\ Richard\ Ma\r\n\ \ @version\ May\ 29,\ 2017\r\n\ \ @author\ \ Period\:\ 3\r\n\ \ @author\ \ Assignment\:\ Pokenom\r\n\r\n\ \ @author\ \ Sources\:\ N/A\r\n
+comment1.params=
+comment1.target=Berry()
+comment1.text=\r\n\ Default\ constructor\ for\ the\ Berry\ class.\ Creates\ a\ berry\ at\ the\r\n\ default\ position.\r\n
+comment2.params=x\ y
+comment2.target=Berry(int,\ int)
+comment2.text=\r\n\ Constructor\ for\ the\ Berry.\ This\ one\ constructs\ a\ berry\ at\ the\r\n\ specified\ coordinates.\r\n\ @param\ x\ is\ the\ x\ coordinate\r\n\ @param\ y\ is\ the\ y\ coordinate\r\n
+comment3.params=
+comment3.target=int\ getXp()
+comment3.text=\r\n\ Method\ that\ give\ the\ experience\ amount\ for\ the\ particular\ berry.\r\n\ Every\ berry\ is\ different.\ \r\n\ @return\ Integer\ value\ that\ is\ the\ experience\ value.\ \r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Act\ -\ do\ whatever\ the\ Berry\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=5

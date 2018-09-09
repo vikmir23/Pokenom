@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Background
+comment0.text=\r\n\ The\ Gui\ for\ the\ main\ world\r\n\ \r\n\ @author\ Keontrye\ Hsieh,\ Vikram\ Miryala,\ Richard\ Ma\r\n\ @version\ May\ 29,\ 2017\r\n\ @author\ Period\:\ 3\r\n\ @author\ Assignment\:\ Pokenom\r\n\r\n\ @author\ Sources\:\ N/A\r\n
+comment1.params=
+comment1.target=Background()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Background.\ Constructs\ a\ new\ world\ with\r\n\ 1150x700\ cells\ with\ a\ cell\ size\ of\ 1x1\ Displays\ a\ munchlax\ object\ in\ the\r\n\ world\r\n
+comment2.params=
+comment2.target=greenfoot.GreenfootSound\ getSound()
+comment2.text=\r\n\ \r\n\ returns\ the\ sound\ played\ while\ munchlax\ is\ eating\ berries\r\n\ \r\n\ @return\ sound\r\n
+comment3.params=
+comment3.target=greenfoot.GreenfootSound\ getBattleSound()
+comment3.text=\r\n\ \r\n\ returns\ the\ sound\ played\ in\ the\ battle\ world\r\n\ \r\n\ @return\ battleSound\r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ this\ method\ runs\ the\ game\ it\ allows\ the\ characters\ to\ move\ and\ spawns\ the\r\n\ berries\ at\ random\ spots\ on\ the\ world\ it\ also\ takes\ collisions\ into\r\n\ account\ and\ calls\ the\ battle\ world\ if\ the\ character\ collides\ with\ a\r\n\ monster\r\n
+numComments=5

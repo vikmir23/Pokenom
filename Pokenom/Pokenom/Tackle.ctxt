@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Tackle
+comment0.text=\r\n\ One\ of\ the\ moves\ in\ the\ game.\ This\ particular\ move\ does\r\n\ 10\ damage\ \r\n\r\n\ \ @author\ \ Keontrye\ Hsieh,\ Vikram\ Miryala,\ Richard\ Ma\r\n\ \ @version\ May\ 29,\ 2017\r\n\ \ @author\ \ Period\:\ 3\r\n\ \ @author\ \ Assignment\:\ Pokenom\r\n\r\n\ \ @author\ \ Sources\:\ N/A\r\n
+comment1.params=
+comment1.target=Tackle()
+comment1.text=\r\n\ Default\ constructor\ for\ Tackle\r\n
+comment2.params=
+comment2.target=int\ getDamage()
+comment2.text=\r\n\ Method\ that\ returns\ the\ amount\ of\ damage\ that\ the\ move\ does.\r\n\ @return\ Integer\ value\ of\ the\ damage.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\r\n\ Method\ that\ returns\ the\ name\ of\ the\ move.\ \r\n\ @return\ String\ that\ is\ name\ of\ the\ move\r\n
+numComments=4

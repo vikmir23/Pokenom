@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Character
+comment0.text=\r\n\ The\ character\ superclass.\ All\ the\ interactable\ objects\ are\r\n\ characters,\ and\ share\ these\ parameters.\r\n\ \r\n\ \ @author\ \ Keontrye\ Hsieh,\ Vikram\ Miryala,\ Richard\ Ma\r\n\ \ @version\ May\ 29,\ 2017\r\n\ \ @author\ \ Period\:\ 3\r\n\ \ @author\ \ Assignment\:\ Pokenom\r\n\r\n\ \ @author\ \ Sources\:\ N/A\r\n
+comment1.params=
+comment1.target=Position\ getPosition()
+comment1.text=\r\n\ Method\ that\ returns\ the\ position\ of\ a\ character\ in\ the\ map.\r\n\ @return\ Position,\ in\ (x,y)\ form\ of\ the\ specified\ character.\r\n
+comment2.params=
+comment2.target=int\ getXp()
+comment2.text=\r\n\ Method\ that\ returns\ the\ experience\ value\ of\ the\ a\ certain\ character\r\n\ @return\ Integer\ value\ of\ the\ amount\ of\ experience\ a\ character\ has.\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ do\ whatever\ the\ Character\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=4

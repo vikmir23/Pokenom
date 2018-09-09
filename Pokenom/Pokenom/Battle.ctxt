@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Battle
+comment0.text=\r\n\ The\ gui\ for\ the\ battle\ world\r\n\ \r\n\ @author\ Keontrye\ Hsieh,\ Vikram\ Miryala,\ Richard\ Ma\r\n\ @version\ May\ 29,\ 2017\r\n\ @author\ Period\:\ 3\r\n\ @author\ Assignment\:\ Pokenom\r\n\r\n\ @author\ Sources\:\ N/A\r\n
+comment1.params=
+comment1.target=Battle()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Battle.\r\n\ \r\n
+comment2.params=bac\ munch\ mons
+comment2.target=Battle(Background,\ Munchlax,\ Monster)
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ Background.\ Constructs\ a\ new\ world\ with\r\n\ 1150x700\ cells\ with\ a\ cell\ size\ of\ 1x1\ Displays\ munch\ and\ mons\ in\ the\r\n\ world\r\n\ \r\n\ @param\ bac\r\n\ \ \ \ \ \ \ \ \ \ \ \ holds\ an\ instance\ of\ the\ background\ world\ so\ that\ the\ game\ can\r\n\ \ \ \ \ \ \ \ \ \ \ \ return\ to\ the\ background\ world\r\n\ @param\ munch\r\n\ \ \ \ \ \ \ \ \ \ \ \ holds\ an\ instance\ to\ the\ munchlax\ object\ present\ in\ background\r\n\ @param\ mons\r\n\ \ \ \ \ \ \ \ \ \ \ \ holds\ an\ instance\ to\ the\ Monster\ that\ munchlax\ collided\ with\r\n\ \ \ \ \ \ \ \ \ \ \ \ and\ now\ has\ to\ battle\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ gives\ the\ objects\ present\ in\ the\ class\ a\ chance\ to\ perform\ the\ action\r\n\ that\ they\ are\ supposed\ to\ perform\r\n\ \r\n\ has\ the\ code\ for\ instigating\ the\ battle\ between\ two\ different\ monsters\r\n
+numComments=4

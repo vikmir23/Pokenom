@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Oran
+comment0.text=\r\n\ \ A\ berry\ in\ the\ game.\ Eating\ the\ berry\ gains\ xp.\ \ \r\n\r\n\ \ @author\ \ Keontrye\ Hsieh,\ Vikram\ Miryala,\ Richard\ Ma\r\n\ \ @version\ May\ 29,\ 2017\r\n\ \ @author\ \ Period\:\ 3\r\n\ \ @author\ \ Assignment\:\ Pokenom\r\n\r\n\ \ @author\ \ Sources\:\ N/A\r\n
+comment1.params=x\ y
+comment1.target=Oran(int,\ int)
+comment1.text=\r\n\ Constructor\ to\ create\ the\ Oran\ berry\ at\ a\ certain\ \r\n\ position\ in\ the\ map.\ \r\n\ @param\ x\ is\ the\ x\ coordinate\r\n\ @param\ y\ is\ the\ y\ coordinate\r\n
+comment2.params=
+comment2.target=Position\ getPosition()
+comment2.text=\r\n\ Method\ that\ return\ the\ position\ of\ character,\ specified\ for\r\n\ the\ Oran\ berry.\r\n\ @return\ Position\ that\ is\ given\ in\ x,y\ coordinates\r\n
+comment3.params=
+comment3.target=int\ getXp()
+comment3.text=\r\n\ Method\ that\ returns\ the\ experience\ value\ of\ the\ monster.\r\n\ @return\ Integer\ value\ of\ the\ experience\ \r\n
+numComments=4

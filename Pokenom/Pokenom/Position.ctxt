@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Position
+comment0.text=\r\n\ The\ position\ class.\ This\ codes\ for\ all\ the\ the\ position\ that\r\n\ characters\ will\ use\ within\ the\ map.\ \ \r\n\r\n\ \ @author\ \ Keontrye\ Hsieh,\ Vikram\ Miryala,\ Richard\ Ma\r\n\ \ @version\ May\ 29,\ 2017\r\n\ \ @author\ \ Period\:\ 3\r\n\ \ @author\ \ Assignment\:\ Pokenom\r\n\r\n\ \ @author\ \ Sources\:\ N/A\r\n
+comment1.params=
+comment1.target=Position()
+comment1.text=\r\n\ Default\ constructor.\ Sets\ the\ position\ at\ 0,0\r\n
+comment2.params=x\ y
+comment2.target=Position(int,\ int)
+comment2.text=\r\n\ Constructor\ for\ position.\ sets\ the\ position\ to\ x,y\r\n\ @param\ x\ the\ x\ coordinate\r\n\ @param\ y\ the\ y\ coordinate\r\n
+comment3.params=
+comment3.target=int\ getX()
+comment3.text=\r\n\ Method\ that\ returns\ the\ x\ coordinate\r\n\ @return\ Integer\ of\ the\ x\ coordinate\r\n
+comment4.params=
+comment4.target=int\ getY()
+comment4.text=\r\n\ Method\ that\ returns\ the\ y\ coordinate\r\n\ @return\ Integer\ of\ the\ y\ coordinate\r\n
+comment5.params=newX\ newY
+comment5.target=void\ changePosition(int,\ int)
+comment5.text=\r\n\ Method\ that\ changes\ the\ position\ of\ a\ certain\ character\r\n\ @param\ newX\ the\ new\ x\ coordinate\r\n\ @param\ newY\ the\ new\ y\ coordinate\r\n
+numComments=6

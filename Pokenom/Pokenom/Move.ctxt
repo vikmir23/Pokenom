@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Move
+comment0.text=\r\n\ The\ moves\ superclass.\ All\ moves\ that\ munchlax\ can\ use\ extend\r\n\ this\ class.\ All\ needed\ parameters\ and\ methods\ are\ defined\ here.\ \r\n\ \r\n\ \ @author\ \ Keontrye\ Hsieh,\ Vikram\ Miryala,\ Richard\ Ma\r\n\ \ @version\ May\ 29,\ 2017\r\n\ \ @author\ \ Period\:\ 3\r\n\ \ @author\ \ Assignment\:\ Pokenom\r\n\r\n\ \ @author\ \ Sources\:\ N/A\r\n
+comment1.params=
+comment1.target=int\ getDamage()
+comment1.text=\r\n\ Method\ that\ returns\ the\ amount\ of\ damage\ that\ the\ move\ does.\r\n\ @return\ Integer\ value\ of\ the\ damage.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Method\ that\ returns\ the\ name\ of\ the\ move.\ \r\n\ @return\ String\ that\ is\ name\ of\ the\ move\r\n
+numComments=3
